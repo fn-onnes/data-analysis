@@ -1,3 +1,4 @@
 
 print(3.80e+10)
-
+a=1
+print(a)
